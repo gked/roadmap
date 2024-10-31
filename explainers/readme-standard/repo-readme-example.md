@@ -56,7 +56,7 @@ This project is licensed under the Apache License-2.0 - see the [LICENSE](https:
 
 ## Contact
 - Bastyon: [join on Bastyon](account-link)
-- Bastyon: [join dev change on Bastyon](channel-link)
+- Bastyon: [join dev channel on Bastyon](channel-link)
 - 📧 Email: contact@project.com
 - 💬 Slack: [Join our workspace](slack-invite-link)
 - 🐦 Twitter: [@projecthandle](twitter-link)
